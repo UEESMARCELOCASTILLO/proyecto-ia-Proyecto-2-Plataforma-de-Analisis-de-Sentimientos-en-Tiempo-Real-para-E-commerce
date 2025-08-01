@@ -1,4 +1,4 @@
-#dfaa proyecto-ia-Proyecto-2-Plataforma-de-Analisis-de-Sentimientos-en-Tiempo-Real-para-E-commerce -  Amazon Reviews
+# proyecto-ia-Proyecto-2-Plataforma-de-Analisis-de-Sentimientos-en-Tiempo-Real-para-E-commerce -  Amazon Reviews
 
 **Objetivo**
 Monitoreo automático de reseñas de productos y redes sociales para detectar problemas de calidad y oportunidades de mejora.
